@@ -126,5 +126,6 @@ Online-Retail-Analysis/
 
 ## About me
 
-[Your name]: [one line about you, for example "I analyse messy business data with Python and turn it into clear recommendations."]
-[Your email or LinkedIn]
+[Sibahle VATHU]: [I analyse messy business data with Python and turn it into clear recommendations.]
+[Email: vathusibahle@gmail.com]
+
